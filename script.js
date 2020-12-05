@@ -53,6 +53,6 @@ function Age(){
     // affiche résultat
     //console.log("Ecart :", ecart);
     
-    return years +" ans " + months + " mois et "+ days +" mois soit "+ jours + " jours"; 
+    return years +" ans " + months + " mois et "+ days +" jours soit un total de "+ jours + " jours"; 
 
 }
